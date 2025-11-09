@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern-practice/static/css/main.6502a17a.css",
+    "main.js": "/mern-practice/static/js/main.d88eebf1.js",
+    "index.html": "/mern-practice/index.html",
+    "main.6502a17a.css.map": "/mern-practice/static/css/main.6502a17a.css.map",
+    "main.d88eebf1.js.map": "/mern-practice/static/js/main.d88eebf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6502a17a.css",
+    "static/js/main.d88eebf1.js"
+  ]
+}
